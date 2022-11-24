@@ -10,5 +10,4 @@
 - 👯 Most of my projects are available on https://github.com/fatihbereketinan.
 - 📫 How to reach me: fatihbereketinan@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fatihbereketinan&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatihbereketinan&theme=tokyonight)
